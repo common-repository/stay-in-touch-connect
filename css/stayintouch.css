@@ -1,0 +1,187 @@
+.welcome{
+    color: black;
+}
+
+.sit_tabkle{
+    width: 100%;
+    background-color: white;
+    /* border:1px solid black ; */
+    border-radius: 10px;
+    
+}
+
+.sit_tabkle .head {
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+}
+
+.sit_tabkle td {
+    padding: 5px;
+    text-align: left;
+}
+
+.sit_tabkle tr:hover {
+    box-shadow:4px 4px 35px 3px grey;
+}
+
+.connect{
+    border: 1px solid black;
+}
+
+.connec{
+    color: green;
+    text-shadow: 0 0 10px #00ff73;
+}
+
+.flex-container {
+    display: flex;
+    margin-right: 10px;
+    /* background-color: grey; */
+    justify-content: center;
+  }
+.flex-container > div {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .flex-container > div:hover {
+    background-color: #fff;
+    box-shadow:4px 4px 35px 3px grey;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .flex-container-token {
+    display: flex;
+    margin-right: 10px;
+    /* background-color: grey; */
+    justify-content: center;
+  }
+.flex-container-token > div {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .flex-container-token > div:hover {
+    background-color: #fff;
+    box-shadow:4px 4px 35px 3px grey;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .flex-fome {
+    display: flex;
+    margin-right: 10px;
+    /* background-color: grey; */
+    justify-content: center;
+  }
+.flex-fome > div {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+
+  .fex-container-two {
+    display: flex;
+    margin-right: 10px;
+    /* background-color: grey; */
+    justify-content: center;
+  }
+.fex-container-two > div {
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .fex-container-two > div:hover {
+    background-color: #fff;
+    box-shadow:4px 4px 35px 3px grey;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .table-log-container {
+      margin-right: 10px;
+    display: flex;
+    /* background-color: grey; */
+    justify-content: center;
+  }
+.table-log-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+  }
+
+  
+
+  #delete_list {
+      background-color: red;
+      padding: 5px;
+      border-radius: 10px;
+      border: 1px solid black;
+      cursor: pointer;
+      color: white;
+  }
+
+  #delete_token{
+    background-color: red;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    color: white;
+  }
+
+  .login-form {
+      background-color: white;
+      padding: 10px;
+      border: 3px solid #f1f1f1;
+      /* margin-right: 10px; */
+  }
+
+  .login-form input[type=email], input[type=password] {
+    width: 100%;   
+    margin: 8px 0;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 2px solid grey;   
+    box-sizing: border-box;   
+
+  }
+
+  /* .login-form input {
+      padding: 10px;
+  } */
+
+  /* #sit_form_submit {
+      background-color: rgba(28, 128, 0, 0.283);
+      padding: 10px;
+  } */
